@@ -1,0 +1,8 @@
+duckdb==0.9.0
+matplotlib==3.6.2
+notebook==7.0.3
+pandas==2.1.1
+polars==0.19.10
+psutil==5.9.4
+pyarrow==13.0.0
+
