@@ -1,5 +1,6 @@
 duckdb==0.9.0
 Cython==3.0.4
+jupysql-0.10.2
 matplotlib==3.6.2
 notebook==7.0.3
 numba==0.56.4
